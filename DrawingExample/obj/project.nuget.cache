@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "no1J3pBR+30PvFMoW/Ra50HxWKkYD6G9HKOX5KkIAGNnthj219ZHIPWPvazKavROHGHutOKCJvTmJi2zq9l2Vg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gurka\\source\\repos\\DrawingExample\\DrawingExample\\DrawingExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gurka\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.6\\guna.ui2.winforms.2.0.4.6.nupkg.sha512",
+    "C:\\Users\\gurka\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\gurka\\.nuget\\packages\\system.management\\7.0.0\\system.management.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
